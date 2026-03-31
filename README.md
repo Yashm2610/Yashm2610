@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Yash Mathur
-- 👀 I’m interested in amchine learning and artificial intelligence
-- 🌱 I’m currently learning btech cse in srmist ktr
+- 👀 I’m interested in mchine learning and artificial intelligence
+- 🌱 I’m currently doing btech cse in srmist ktr
 - 💞️ I’m looking to collaborate with companies
 - 📫 reach me with instagram,twitter,linkedin
 <!---
