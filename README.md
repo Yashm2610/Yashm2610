@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Yash Mathur
-- 👀 I’m interested in mchine learning and artificial intelligence
+- 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently doing btech cse in srmist ktr
 - 💞️ I’m looking to collaborate with companies
 - 📫 reach me with instagram,twitter,linkedin
