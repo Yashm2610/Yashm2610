@@ -89,7 +89,6 @@ Open-source contribution focused on climate monitoring and analytics.
 
 ## 📊 GitHub Stats
 
-* 449+ Contributions (Last Year)
 * 34+ Repositories
 * Open Source Contributor
 * AI/ML & Full Stack Developer
@@ -100,7 +99,7 @@ Open-source contribution focused on climate monitoring and analytics.
 
 * LinkedIn: linkedin.com/in/yash-mathur-3663a7290
 * GitHub: github.com/Yashm2610
-* Email: (Add your professional email)
+* Email: mathury2006@gmail.com
 
 ---
 
