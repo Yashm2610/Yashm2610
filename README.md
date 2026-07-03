@@ -1,12 +1,12 @@
-# Hi 👋, I'm Yash Mathur
+# Hi, I'm Yash Mathur
 
-### 🚀 AI/ML Enthusiast | Full Stack Developer | Open Source Contributor
+### AI/ML Enthusiast | Full Stack Developer | Open Source Contributor
 
 I'm a Computer Science Engineering student at SRM Institute of Science and Technology (SRMIST), KTR. I enjoy building AI-powered applications, solving real-world problems, and contributing to open-source projects.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -44,33 +44,33 @@ I'm a Computer Science Engineering student at SRM Institute of Science and Techn
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🚆 Train Delay Management System
+### Train Delay Management System
 
 AI-powered system for predicting train delays and improving passenger communication.
 
 **Tech:** Python, Machine Learning, Flask
 
-### 🦖 TREX-AI
+### TREX-AI
 
 Intelligent AI assistant with automation and productivity features.
 
 **Tech:** Python, AI/ML, APIs
 
-### 📈 PrimeTrade.ai
+### PrimeTrade.ai
 
 AI-driven trading and market analytics platform.
 
 **Tech:** Python, Data Analysis, Finance
 
-### 🤖 AstroAgent
+### AstroAgent
 
 Autonomous AI agent for task execution and intelligent workflows.
 
 **Tech:** Python, LLM Integration
 
-### 🌦 Climate Shield
+### Climate Shield
 
 Open-source contribution focused on climate monitoring and analytics.
 
@@ -78,7 +78,7 @@ Open-source contribution focused on climate monitoring and analytics.
 
 ---
 
-## 🏆 Open Source Contributions
+## Open Source Contributions
 
 * Contributor in SSOC 2026 projects
 * Merged Pull Requests in public repositories
@@ -87,7 +87,7 @@ Open-source contribution focused on climate monitoring and analytics.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 * 34+ Repositories
 * Open Source Contributor
@@ -95,7 +95,7 @@ Open-source contribution focused on climate monitoring and analytics.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: linkedin.com/in/yash-mathur-3663a7290
 * GitHub: github.com/Yashm2610
@@ -103,6 +103,6 @@ Open-source contribution focused on climate monitoring and analytics.
 
 ---
 
-### 💡 Motto
+### Motto
 
 "Build. Learn. Contribute. Repeat."
